@@ -20,15 +20,6 @@ I have hands-on experience in **Artificial Intelligence** and **Research & Devel
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bg28gh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg28gh&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🏌️‍♂️ Beyond the Code
 
 When I'm not in front of the screen, I'm likely:
