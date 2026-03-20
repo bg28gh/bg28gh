@@ -1,21 +1,26 @@
 # Hi there, I'm Bautista! 👋
 
-### 🧠 Software & AI Engineer | R&D Enthusiast | Logic Solver
+### 💻 Software & AI Engineer | Multi-Language Developer | ⛳ Handicap 20 Coder 
 
-I'm a developer passionate about building efficient, scalable solutions and solving complex backend puzzles. Currently, I'm focusing my career on **AI Engineering**, experimenting with LLMs, Agentic AI, and how to integrate data intelligence into production systems. My core philosophy is **Clean Code** and continuous learning.
+I'm a developer focused on building efficient solutions and solving complex backend puzzles. I have a strong foundation in logic and algorithm design, allowing me to bridge the gap between low-level systems and high-level applications. My core philosophy is **Clean Code** and continuous learning.
+
+---
+
+### 💡 Experience in AI & R&D
+I have hands-on experience in **Artificial Intelligence** and **Research & Development**. I enjoy applying intelligent logic, designing algorithms, and tackling complex data challenges to build smart, efficient software products that improve user experience.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-| Language | Frameworks & Tools | Databases |
+| Languages | Tools & Environments | Databases |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FFD700?style=flat-square&logo=chainlink&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![VectorDB](https://img.shields.io/badge/VectorDB-00C7B7?style=flat-square&logo=chroma&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bg28gh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
