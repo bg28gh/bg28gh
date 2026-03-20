@@ -11,6 +11,12 @@ I have hands-on experience in **Artificial Intelligence** and **Research & Devel
 
 ---
 
+### 💼 Professional Background
+* **IT Engineering Intern:** Gained hands-on experience in technical environments, focusing on system efficiency, automation, and internal support.
+* **International Exposure:** Living and working across **Argentina, Spain (Valencia), and Germany (Berlin)** has shaped my ability to adapt quickly to new technologies and multicultural teams.
+
+---
+
 ### 🛠️ My Tech Stack
 
 | Languages | Tools & Environments | Databases |
