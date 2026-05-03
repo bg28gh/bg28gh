@@ -6,8 +6,8 @@ I'm a developer focused on building efficient solutions and solving complex back
 
 ---
 
-### 💡 Experience in AI & R&D
-I have hands-on experience in **Artificial Intelligence** and **Research & Development**. I enjoy applying intelligent logic, designing algorithms, and tackling complex data challenges to build smart, efficient software products that improve user experience.
+### 💡 Insterest in AI & R&D
+I have strong interest in **Artificial Intelligence** and **Research & Development**. I enjoy exploring intelligent logic, designing algorithms, and tackling complex challenges through self-taught projects, always aiming to build smart, efficient solutions.
 
 ---
 
